@@ -1,6 +1,6 @@
-# tecniya-menu
+# Centro-de-servicio-menu
 
-Menu digital de Tecniya publicado como pagina estatica con GitHub Pages.
+Menu rapido de servicios tecnicos publicado como pagina estatica con GitHub Pages.
 
 Archivo principal:
 - `index.html`
